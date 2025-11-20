@@ -1,0 +1,252 @@
+ .beef{
+    text-align: center;
+    padding: 200px;
+    background-size: cover;
+    background-image: url(pppp.jpg);
+    height: 600px;
+    background-position: center;
+    
+ }
+ .box{
+    height: 100px;
+    width: 100px;
+    /* background-color: aqua; */
+    border-radius: 50%;
+    border: 5px double white;
+    margin: auto;
+    padding: 20px;
+ }
+ .type{
+    color: white;
+ }
+ .bigg{
+    font-size: 70px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serifZ;
+ }
+ 
+ .line{
+    background-color: rgb(226, 226, 10);
+    width: 60%;
+    height: 2px;
+    float: right;
+ }
+.line1{
+       background-color: rgb(226, 226, 10);
+    width: 80%;
+    height: 2px; 
+    float: right;
+
+}
+.beef2{
+    background-image: url(beef\ line.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.line3{
+    background-color: rgb(255, 255, 17);
+    width: 50%;
+    height: 2px;
+    float: left;
+}
+.line4{
+     background-color: rgb(226, 226, 10);
+    width: 90%;
+    height: 2px; 
+    float: left;
+}
+.box10{
+/* margin: 80px; */
+text-align: center;
+}
+.overlay1{
+    background-color: rgba(0, 0, 0, 0.397);
+     padding: 100px 0;
+}
+/* .box1{
+    margin: 80px;
+} */
+.pub{
+   
+   background-image: url(pub.jpg);
+   background-size: cover;
+   text-align: center;
+   /* padding: 170px 0; */
+   height: 550px;
+}
+.pub1{
+   text-align: center;
+   
+}
+.line0{
+   height: 2px;
+   width: 63%;
+   background-color: white;
+   margin: auto;
+
+}
+.catering{
+  
+   background-image: url(ca1.jpg);
+   background-size: cover;
+   background-position: center;
+   text-align: center;
+   /* padding: 100px 0; */
+   
+   
+}
+.beef3{
+            background-image: url(wedd.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:300px;
+}
+.overlay2{
+    background-color: rgba(255, 255, 255, 0.582);
+     padding: 100px 0;
+
+}
+.line30{
+  background-color:rgba(0, 0, 0, 0.37);
+    width: 60%;
+    height: 2px;
+    float: right;
+}
+.line31{
+background-color:rgba(0, 0, 0, 0.37);
+    width: 80%;
+    height: 2px; 
+    float: right;
+}
+.bottle{
+   background-image: url(bottles.jpg);
+   background-repeat: no-repeat;
+    background-size: cover;
+    height:600px;
+    text-align: center;
+    
+    /* word-spacing: 15px; */
+}
+.line50{
+   height: 2px;
+   width: 59%;
+   background-color: white;
+   margin: auto;
+}
+.couple{
+   background-image: url(cheers2.jpg);
+   background-repeat: no-repeat;
+    background-size: cover;
+    /* height:600px; */
+    text-align: center;
+    
+    /* word-spacing: 15px;
+ */
+}
+.friends{
+           background-image: url(couple.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* height:300px; */
+   
+    text-align: center;
+}
+.overlay3{
+    background-color: rgba(255, 166, 0, 0.623);
+     padding: 50px 0;
+}
+
+.word{
+   /* word-spacing: 15px; */
+}
+.akhila{
+   background-color: white;
+}
+.beginning{
+    background-image: url(fire.jpg);
+   background-repeat: no-repeat;
+    background-size: cover;
+
+    text-align: center;
+    
+}
+.line51{
+   height: 2px;
+   width: 58%;
+   background-color: white;
+   margin: auto;
+}
+.round{
+   /* background-color: white; */
+   height: 100px;
+   width: 100px;
+   margin: auto;
+   border: 5px double white;
+   border-radius: 50px;
+   padding-top: 10px;
+   
+}
+.spoon{
+   height: 100px;
+   width: 100px;
+   margin: auto;
+   border: 5px double white;
+   border-radius: 50px;
+   padding-top: 18px;
+}
+.overlays{
+   background-color: rgba(0, 0, 0, 0.322);
+   padding: 180px 0;
+}
+.overlay4{
+    background-color: rgba(0, 0, 0, 0.322);
+     padding: 110px 0;
+}
+.overlay6{
+   background-color:  rgba(0, 0, 0, 0.322);
+   padding: 130px 0;
+}
+.overlay7{
+   background-color:  rgba(0, 0, 0, 0.322);
+   padding: 130px 0;
+}
+.overlayy{
+   background-color: rgba(0, 0, 0, 0.322);
+   padding: 130px;
+}
+.last {
+   padding: 50px 0 0;
+   background-color: rgba(0, 0, 0, 0.645);
+}
+.box90{
+   background-image: url(final\ chapter.png);
+   background-size: cover;
+   height: 200px;
+   text-align: center;
+}
+.ovrly{
+   background-color:rgba(255, 255, 255, 0.488);
+   height: 200px;
+   padding-top: 50px;
+}
+.mylist{
+   list-style-type:none;
+   
+}
+.mylist ul li a{
+   text-decoration: none;
+}
+.icn{
+   color: black;
+}
+.black{
+   background-color: black;
+   padding: 14px;
+}
+.p{
+   color: rgba(255, 255, 255, 0.488);
+}
+ 
+.v{
+   color: aqua;
+}
